@@ -1,0 +1,90 @@
+body {
+  width: 100%
+  padding: 0px;
+  margin: 0px;
+  text-align: center;
+}
+
+
+html {
+  width: 100%
+}
+
+#mainContainer {
+  width: 100%;
+  font-family: cursive;
+}
+
+#newsletter {
+  width: 90px;
+  right: 90px;
+  background-color: #B8860B;
+  color: white;
+  position: fixed;
+  bottom: 10px;
+  left: 10px;
+  border-style: ridge;
+  cursor: pointer;
+}
+
+
+#menu {
+  text-align: left;
+  font-size: 45px;
+  height: 60px;
+  width: 100%;
+  background-color: #B8860B;
+  position: fixed;
+  top: 0px;
+  border-style: double;
+  padding: 10px;
+}
+
+#menuContents {
+  display: inline-block;
+  font-size: 12px;
+  color: black;
+  text-align: right;
+
+ }
+
+.menuButton {
+  display: inline;
+  font-size: 14px;
+  float: right;
+  padding-right: 20px;
+  margin-right: 20px;
+  cursor: pointer;
+}
+
+#contentContainer {
+  padding-top: 100px;
+
+}
+
+#header {
+  font-size: 42px;
+  height: 50px;
+}
+
+
+img {
+  padding: 0px;
+  margin: 0px;
+  border-radius: 5px;
+  border-style: ridge;
+  color: black;
+  width: 100%;
+  height: 600px;
+  position: center center;
+}
+
+#aboutAlbum {
+  font-size: 40px;
+  padding: 650px 100px 0px 150px;
+  color: #8B4513
+}
+
+#footer {
+  text-align: right;
+}
